@@ -9,7 +9,7 @@ public class Main {
         YEB_Calculator yc = new YEB_Calculator();
         System.out.println(yc.add(num1,num2));
         System.out.println(yc.multiply(num1,num2));
-        System.out.println(Calculator.subtract(num2,num1));
+        System.out.println(Calculator.subtract(num1,num2));
     }
 }
 
